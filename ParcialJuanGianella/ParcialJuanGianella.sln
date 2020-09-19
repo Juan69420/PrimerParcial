@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialJuanGianella", "ParcialJuanGianella\ParcialJuanGianella.csproj", "{B045F24E-1E81-4DD0-BE08-B1ACAD00E5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialJuanGianella.Tests", "ParcialJuanGianella.Tests\ParcialJuanGianella.Tests.csproj", "{94FD2C4B-FD03-415D-89A0-A56C17247A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B045F24E-1E81-4DD0-BE08-B1ACAD00E5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B045F24E-1E81-4DD0-BE08-B1ACAD00E5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B045F24E-1E81-4DD0-BE08-B1ACAD00E5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B045F24E-1E81-4DD0-BE08-B1ACAD00E5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986D4787-5C4D-434D-BB3A-3CD3ECBA0A59}
+	EndGlobalSection
+EndGlobal
