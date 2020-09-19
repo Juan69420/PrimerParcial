@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialJuanGianella", "Parc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialJuanGianella.Tests", "ParcialJuanGianella.Tests\ParcialJuanGianella.Tests.csproj", "{94FD2C4B-FD03-415D-89A0-A56C17247A0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admParcialJuanGianella", "admParcialJuanGianella\admParcialJuanGianella.csproj", "{4C283105-0503-46E2-99A1-722769FA778B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94FD2C4B-FD03-415D-89A0-A56C17247A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C283105-0503-46E2-99A1-722769FA778B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C283105-0503-46E2-99A1-722769FA778B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C283105-0503-46E2-99A1-722769FA778B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C283105-0503-46E2-99A1-722769FA778B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
